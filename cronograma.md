@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cronograma</title>
+    Cronograma
 </head>
 <body>
     <p>Este repositório tem como propósito de demonstrar oque eu aprendo e faço enquanto estou no NPI</p>
