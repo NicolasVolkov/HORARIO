@@ -1,4 +1,5 @@
 Este repositório tem como propósito de demonstrar oque eu aprendo e faço enquanto estou no NPI
+Meus códigos estão todos no "projetos de java"
 03/08/26:
 Fazer  Relatório - V
 Terminar tarefa de POO - V
