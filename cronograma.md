@@ -14,5 +14,9 @@
     <p>04/08/26:</p>
     <p>Fazer tarefa de algebra linear - V</p>
     <p>Fazer um sistema de soma de matrizes - V</p>
+    <p>05/08/26:</p>
+    <p>Fazer relatório do pensamento - V</p>
+    <p>Fazer um sistema de multiplicação de uma matriz - V</p>
+    <p>Fazer um sistema de subtração de matrizes - V</p>
 </body>
 </html>
