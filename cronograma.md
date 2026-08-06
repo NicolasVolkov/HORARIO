@@ -18,5 +18,8 @@
     <p>Fazer relatório do pensamento - V</p>
     <p>Fazer um sistema de multiplicação de uma matriz - V</p>
     <p>Fazer um sistema de subtração de matrizes - V</p>
+    <p>06/08/26:</p>
+    <p>Fazer outra tarefa de algebra linear - V</p>
+    <p>Fazer um sistema de multiplicação de matrizes - X</p>
 </body>
 </html>
