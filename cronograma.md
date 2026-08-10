@@ -9,7 +9,7 @@
     <p>Este repositório tem como propósito de demonstrar oque eu aprendo e faço enquanto estou no NPI</p>
     <p>Meus códigos estão todos no "projetos de java"</p>
     <p>03/08/26:</p>
-    <p>Fazer  Relatório - V</p>
+    <p>Fazer  Relatório do Londrinense Tech - V</p>
     <p>Terminar tarefa de POO - V</p>
     <p>04/08/26:</p>
     <p>Fazer tarefa de algebra linear - V</p>
@@ -21,5 +21,8 @@
     <p>06/08/26:</p>
     <p>Fazer outra tarefa de algebra linear - V</p>
     <p>Fazer um sistema de multiplicação de matrizes - V</p>
+    <p>10/08/26:</p>
+    <p>Fazer Relatório do Londrinense Tech - X</p>
+    <p>Não tô bem hj ent vai ser só isso</p>
 </body>
 </html>
