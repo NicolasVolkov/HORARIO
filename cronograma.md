@@ -22,7 +22,7 @@
     <p>Fazer outra tarefa de algebra linear - V</p>
     <p>Fazer um sistema de multiplicação de matrizes - V</p>
     <p>10/08/26:</p>
-    <p>Fazer Relatório do Londrinense Tech - X</p>
+    <p>Fazer Relatório do Londrinense Tech - V</p>
     <p>Não tô bem hj ent vai ser só isso</p>
 </body>
 </html>
