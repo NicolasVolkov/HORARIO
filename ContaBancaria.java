@@ -1,0 +1,28 @@
+
+public class ContaBancaria {
+    String titular;
+    int numero;
+    int saldo;
+    public ContaBancaria(String titular, int numero, int saldo){
+        this.titular = titular;
+        this.numero = numero;
+        this.saldo = saldo;
+    }
+    public void depositar(double valor) {
+             saldo += valor;
+            System.out.println("Foi adicionado " +valor+" reais depositados");
+    }
+    public void sacar(double valor) {
+        if (valor > saldo ) {
+            System.out.println("O valor para saque deve ser menor que o saldo");
+        } else {
+            saldo -=  valor;
+            System.out.println("O saque foi feito com sucesso!");
+        }
+    }
+    public void mostrarSaldo() {
+        System.out.println("Titular: " + titular);
+        System.out.println("Número da conta: " + numero);
+        System.out.println("Saldo da conta: " + saldo);
+    }
+}
