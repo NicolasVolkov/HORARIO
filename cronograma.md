@@ -24,5 +24,9 @@
     <p>10/08/26:</p>
     <p>Fazer Relatório do Londrinense Tech - V</p>
     <p>Não tô bem hj ent vai ser só isso</p>
+    <p>12/08/26:</p>
+    <p>Fazer Relatório do Pensamento Computacional - V</p>
+    <p>Fazer tarefa de álgebra linear - V</p>
+    <p>Fazer tarefa de LPOO - V</p>
 </body>
 </html>
