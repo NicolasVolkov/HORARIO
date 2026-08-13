@@ -77,6 +77,7 @@ public class soraShio {
                         System.out.println("Esse número não é de uma perícia");
                     }
                     break;
+                    
                 case 3:
                     System.out.println("--- PERÍCIA ---");
                     System.out.println("1 -- Fortitude --");
