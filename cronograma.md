@@ -29,7 +29,7 @@
     <p>Fazer tarefa de álgebra linear - V</p>
     <p>Fazer tarefa de LPOO - V</p>
     <p>13/08/26:</p>
-    <p>Fazer ficha de perícia do meu personagem de RPG - X</p>
+    <p>Fazer ficha de perícia em código do meu personagem de RPG - X</p>
     <p>Fazer tarefa de LPOO - X</p>
 </body>
 </html>
