@@ -1,3 +1,4 @@
+package LPOO;
 
 public class ContaBancaria {
     String titular;
@@ -18,6 +19,15 @@ public class ContaBancaria {
         } else {
             saldo -=  valor;
             System.out.println("O saque foi feito com sucesso!");
+        }
+    }
+    public void transferir(ContaBancaria destino, double valor){
+        if (valor > 0 && valor <= saldo){
+            saldo -= valor;
+            destino.saldo += valor;
+            System.out.println("Transferência de " + valor + " reais concluída");
+        } else {
+            System.out.println("Valor de transfêrencia é incompatível com a conta...");
         }
     }
     public void mostrarSaldo() {
