@@ -31,5 +31,8 @@
     <p>13/08/26:</p>
     <p>Fazer ficha de perícia em código do meu personagem de RPG - V/</p>
     <p>Fazer tarefa de LPOO - V</p>
+    <p>14/08/26:</p>
+    <p>Terminar ficha de perícia em código do meu personagem de RPG - V</p>
+    <p>Fazer as UCDs - V</p>
 </body>
 </html>
