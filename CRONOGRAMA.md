@@ -35,5 +35,8 @@
     <p>Terminar ficha de perícia em código do meu personagem de RPG - V</p>
     <p>Fazer as UCDs - V</p>
     <p>Estudar POO - V</p>
+    <p>17/08/26:</p>
+    <p>Fazer relatório do londrinense - V</p>
+    <p>Estudar POO - V</p>
 </body>
 </html>
