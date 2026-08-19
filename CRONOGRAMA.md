@@ -38,5 +38,8 @@
     <p>17/08/26:</p>
     <p>Fazer relatório do londrinense - V</p>
     <p>Estudar POO - V</p>
+    <p>19/08/26:</p>
+    <p>Fazer relatório do Pensamento Computacional - V</p>
+    <p>Fazer tarefa de POO - V</p>
 </body>
 </html>
