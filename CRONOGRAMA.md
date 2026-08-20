@@ -42,7 +42,7 @@
     <p>Fazer relatório do Pensamento Computacional - V</p>
     <p>Fazer tarefa de POO - V</p>
     <p>20/08/26:</p>
-    <p>Fazer tarefa de álgebra linear - X</p>
-    <p>Fazer tarefa de POO - X</p>
+    <p>Fazer tarefa de álgebra linear - V</p>
+    <p>Fazer tarefa de POO - V</p>
 </body>
 </html>
