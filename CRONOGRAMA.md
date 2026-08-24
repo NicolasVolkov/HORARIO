@@ -44,5 +44,8 @@
     <p>20/08/26:</p>
     <p>Fazer tarefa de álgebra linear - V</p>
     <p>Fazer tarefa de POO - V</p>
+    <p>24/08/26:</p>
+    <p>Fazer relatório do londrinense tech - V</p>
+    <p>Fazer tarefa de POO - X</p>
 </body>
 </html>
