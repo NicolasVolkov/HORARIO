@@ -1,17 +1,31 @@
-package Consulta;
+package dirigir;
 
 public class Principal {
-    static void main(String[] args) {
-        Paciente paciente = new Paciente("Mandela", 17, "11552911900");
-        Medico medico = new Medico("Jonathan", "Raio-x", "Admin");
-        System.out.println("Dados do Paciente:");
-        paciente.apresentarPaciente();
-        System.out.println("Dados do Médico:");
-        medico.apresentarMedico();
-        paciente.realizarConsulta(medico);
-        System.out.println("Dados do paciente após consulta: ");
-        paciente.apresentarPaciente();
-        System.out.println("Dados do Médico após consulta:");
-        medico.apresentarMedico();
+
+
+    public static void main(String[] args) {
+        /*
+         * O programa principal cria somente
+         * o objeto Computador.
+         * O próprio Computador criará internamente
+         * seu objeto Processador.
+         */
+        Carro carro= new Carro("Volksvagen", "bunbun", "eggs",34);
+
+
+        System.out.println("DADOS INICIAIS");
+        carro.apresentarCarro();
+
+
+        System.out.println("\nLIGANDO");
+        carro.ligarCarro();
+
+
+        System.out.println("\nDADOS ATUALIZADOS");
+        carro.apresentarCarro();
+
+
+        System.out.println("\nDESLIGANDO");
+        carro.desligarCarro();
     }
 }
