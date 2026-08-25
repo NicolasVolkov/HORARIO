@@ -46,6 +46,9 @@
     <p>Fazer tarefa de POO - V</p>
     <p>24/08/26:</p>
     <p>Fazer relatório do londrinense tech - V</p>
-    <p>Fazer tarefa de POO - X</p>
+    <p>Fazer tarefa de POO - V</p>
+    <p>25/08/26:</p>
+    <p>Me preparar para uma apresentação de gerenciamento - V</p>
+    <p>Fazer MAIS UMA tarefa de POO - V</p>
 </body>
 </html>
