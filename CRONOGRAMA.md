@@ -14,3 +14,4 @@ Meus códigos estão todos no "projetos de java"
 | 20/08/26 | Fazer tarefa de álgebra linear | V| Fazer tarefa de POO | V|
 | 24/08/26 | Fazer relatório do londrinense tech | V| Fazer tarefa de POO  | V|
 | 25/08/26 | Me preparar para uma apresentação de gerenciamento | V| Fazer MAIS UMA tarefa de POO | V|
+| 26/08/26 | Fazer relatório do pensamento computacional | V| Estudar Álgebra Linear | V|
