@@ -1,31 +1,28 @@
-package dirigir;
+package Coonta.Princ;
 
+import Coonta.TipoConta2.ContaPoupanca;
 public class Principal {
-
-
     public static void main(String[] args) {
-        /*
-         * O programa principal cria somente
-         * o objeto Computador.
-         * O próprio Computador criará internamente
-         * seu objeto Processador.
-         */
-        Carro carro= new Carro("Volksvagen", "bunbun", "eggs",34);
+        ContaPoupanca conta = new ContaPoupanca("João da Silva", "12345-6", 1000.00, "Banco do Brasil", 0.5);
+        System.out.println("--- DADOS DA CONTA ---");
+        conta.mostrarDados();
 
+        System.out.println("\n--- DEPÓSITO ---");
+        conta.depositar(500.00);
+        System.out.println("Saldo após depósito: R$ "
+                + conta.getSaldo());
 
-        System.out.println("DADOS INICIAIS");
-        carro.apresentarCarro();
+        System.out.println("\n--- SAQUE ---");
+        conta.sacar(200.00);
+        System.out.println("Saldo após saque: R$ "
+                + conta.getSaldo());
 
+        System.out.println("\n--- RENDIMENTO ---");
+        conta.aplicarRendimento();
+        System.out.println("Saldo após rendimento: R$ "
+                + conta.getSaldo());
 
-        System.out.println("\nLIGANDO");
-        carro.ligarCarro();
-
-
-        System.out.println("\nDADOS ATUALIZADOS");
-        carro.apresentarCarro();
-
-
-        System.out.println("\nDESLIGANDO");
-        carro.desligarCarro();
+        System.out.println("\n--- DADOS ATUALIZADOS ---");
+        conta.mostrarDados();
     }
 }

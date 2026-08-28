@@ -1,38 +1,64 @@
-package LPOO;
+package Coonta.TipoConta1;
 
 public class ContaBancaria {
-    String titular;
-    int numero;
-    int saldo;
-    public ContaBancaria(String titular, int numero, int saldo){
+
+    private String titular;
+    private String numeroConta;
+    protected double saldo;
+    public String nomeBanco;
+
+    public ContaBancaria(String titular, String numeroConta, double saldo, String nomeBanco) {
         this.titular = titular;
-        this.numero = numero;
+        this.numeroConta = numeroConta;
+        this.saldo = saldo;
+        this.nomeBanco = nomeBanco;
+    }
+    public String getTitular() {
+        return titular;
+    }
+
+    public void setTitular(String titular) {
+        this.titular = titular;
+    }
+
+    public String getNumeroConta() {
+        return numeroConta;
+    }
+
+    public void setNumeroConta(String numeroConta) {
+        this.numeroConta = numeroConta;
+    }
+
+    public double getSaldo() {
+        return saldo;
+    }
+
+    public void setSaldo(double saldo) {
         this.saldo = saldo;
     }
+
+    public String getNomeBanco() {
+        return nomeBanco;
+    }
+
+    public void setNomeBanco(String nomeBanco) {
+        this.nomeBanco = nomeBanco;
+    }
     public void depositar(double valor) {
-             saldo += valor;
-            System.out.println("Foi adicionado " +valor+" reais depositados");
+        saldo += valor;
     }
+
     public void sacar(double valor) {
-        if (valor > saldo ) {
-            System.out.println("O valor para saque deve ser menor que o saldo");
-        } else {
-            saldo -=  valor;
-            System.out.println("O saque foi feito com sucesso!");
-        }
-    }
-    public void transferir(ContaBancaria destino, double valor){
-        if (valor > 0 && valor <= saldo){
+        if (valor <= saldo) {
             saldo -= valor;
-            destino.saldo += valor;
-            System.out.println("Transferência de " + valor + " reais concluída");
         } else {
-            System.out.println("Valor de transfêrencia é incompatível com a conta...");
+            System.out.println("Saldo insuficiente!");
         }
     }
-    public void mostrarSaldo() {
+    public void mostrarDados() {
         System.out.println("Titular: " + titular);
-        System.out.println("Número da conta: " + numero);
-        System.out.println("Saldo da conta: " + saldo);
+        System.out.println("Número da conta: " + numeroConta);
+        System.out.println("Saldo: R$ " + saldo);
+        System.out.println("Banco: " + nomeBanco);
     }
 }
