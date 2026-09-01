@@ -18,3 +18,4 @@ Meus códigos estão todos no "projetos de java"
 | 27/08/26 | Fazer tarefa de LPOO | V| Fazer lista de Álgebra Linear | V|
 | 28/08/26 | Fazer tarefa de LPOO(5 exer)| V| Fazer um pouco das listas de Álgebra Linear | V|
 | 31/08/26 | Fazer relatório do Londrinense tech| V|  | -|
+| 01/09/26 | Terminar as listas de álgebra linear| X| Fazer códigos para o trabalho de álgebra linear | V|
